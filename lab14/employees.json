@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Плескачёв",
+    "department": "ИТ",
+    "position": "Бэкндер",
+    "salary": 199999
+  },
+  {
+    "id": 2,
+    "name": "Плескачёв",
+    "department": "ИТ",
+    "position": "Бэкндер",
+    "salary": 1999
+  }
+]
